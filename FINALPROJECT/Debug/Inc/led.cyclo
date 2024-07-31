@@ -1,0 +1,4 @@
+../Inc/led.c:15:6:delay	2
+../Inc/led.c:19:6:LED_init	1
+../Inc/led.c:27:6:blink	1
+../Inc/led.c:32:6:LED_Blinking	5

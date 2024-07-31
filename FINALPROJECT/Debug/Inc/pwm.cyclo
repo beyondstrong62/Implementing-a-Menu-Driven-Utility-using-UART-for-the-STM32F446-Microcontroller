@@ -1,0 +1,2 @@
+../Inc/pwm.c:14:6:PWM_config	1
+../Inc/pwm.c:27:6:start_PWM_output	7
